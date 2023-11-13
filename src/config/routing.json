@@ -1,0 +1,26 @@
+{
+  "/": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "indexAction"
+  },
+  "/index/index": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "indexAction"
+  },
+  "/index/show": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "showAction"
+  },
+  "/index/new": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "newAction"
+  },
+  "/index/edit": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "editAction"
+  },
+  "/index/delete": {
+    "controller": "\\Application\\Controllers\\IndexController",
+    "action": "deleteAction"
+  }
+}
